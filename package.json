@@ -1,0 +1,21 @@
+{
+  "name": "outboundcall",
+  "version": "1.0.0",
+  "description": "A Banwidth phone makes an outbound call",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo ‘no test yet’"
+  },
+  "keywords": [
+    "Outbound",
+    "call",
+    "Bandwidth"
+  ],
+  "author": "Jillian Troftgruben",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "node-bandwidth": "^2.3.3"
+  }
+}
